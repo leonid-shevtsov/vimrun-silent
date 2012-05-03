@@ -6,8 +6,8 @@ does exactly the same, without the flashing window.
 
 ## Installation
 
-* Grab `vimrun.exe` from the [downloads](https://github.com/leonid-shevtsov/vimrun-silent/downloads)`.
-* Put it anywhere in your PATH before Vim's directory. The easiest way, though, is to replace the vanilla `vimrun.exe`, located in `C:\Program Files (x86)\Vim/vim73` or somewhere similar.
+* Grab `vimrun.exe` from the [downloads](https://github.com/leonid-shevtsov/vimrun-silent/downloads).
+* Put it anywhere in your PATH before Vim's directory. The easiest way, though, is to replace the vanilla `vimrun.exe`, located in `C:\Program Files (x86)\Vim\vim73` or somewhere similar.
 
 ## Description
 
@@ -34,6 +34,6 @@ You could also build a Visual Studio solution if it pleases you.
 
 * * *
 
-\&copy; [Leonid Shevtsov](http://leonid.shevtsov.me), released under the MIT license.
+(c) [Leonid Shevtsov](http://leonid.shevtsov.me), released under the MIT license.
 
 Source based on the vanilla [`vimrun.c`](http://code.google.com/p/vim/source/browse/src/vimrun.c), available from Vim sources.
