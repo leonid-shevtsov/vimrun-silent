@@ -1,0 +1,4 @@
+cmake_minimum_required (VERSION 2.6)
+project (vimrun)
+add_executable(vimrun WIN32 vimrun.c)
+set_target_properties(vimrun PROPERTIES COMPILER_FLAGS "/O2" LINK_FLAGS "/MACHINE:X86")
